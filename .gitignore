@@ -42,6 +42,23 @@ replay_pid*
 .classpath
 .project
 
+# TestNG default output folder
+test-output/
+
+# Maven build and report outputs
+target/
+*.log
+
+# Gradle build and report outputs
+build/
+.gradle/
+
+# Extent Reports / Allure Reports (if you use them later)
+ExtentReports/
+allure-results/
+allure-report/
+
+
 .settings/
 target/
 bin/
