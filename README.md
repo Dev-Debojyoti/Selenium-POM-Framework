@@ -1,4 +1,4 @@
-<img width="1504" height="816" alt="Screenshot 2026-07-06 031611" src="https://github.com/user-attachments/assets/2bfd5eea-c4a6-4e4a-acb5-129749bcfea7" />
+<img width="1481" height="678" alt="Screenshot 2026-07-05 205747" src="https://github.com/user-attachments/assets/de1c5962-326f-4394-8f82-6e0beddda52c" />
 
 
 # Selenium Java POM Framework
