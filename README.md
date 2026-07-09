@@ -1,3 +1,6 @@
+<img width="1504" height="816" alt="Screenshot 2026-07-06 031611" src="https://github.com/user-attachments/assets/2bfd5eea-c4a6-4e4a-acb5-129749bcfea7" />
+
+
 # Selenium Java POM Framework
 
 A scalable, modular test automation framework built with Selenium WebDriver, Java, and TestNG using the Page Object Model (POM) design pattern.
